@@ -21,3 +21,4 @@ pattern used:
 -Proxy pattern
 -Builder pattern
 -Prototype Pattern
+-Bridge pattern
