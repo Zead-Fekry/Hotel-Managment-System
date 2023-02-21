@@ -1,4 +1,4 @@
-# Hotel-Managment-System(based on software design patterns concepts)
+# Hotel-Managment-System(Based on software design patterns concepts)
 Hotel management system is a desktop application that allows hotel workers to do their work easily. It will be used for booking rooms, checking in and out, keeping up with rooms statuses, … 
 Hotel has number of workers, like manager, receptionist, room service. Only manager and receptionist have accessibility to this application. So, each one of them has a specific functionality and limited accessibility. 
 ⮚ Hotel has number of rooms with different types (single, double, and triple) and different prices. 
